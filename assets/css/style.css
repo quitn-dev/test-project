@@ -1,0 +1,17 @@
+* {
+  box-sizing: border-box;
+}
+
+.container {
+  display: flex;
+  background-color: aquamarine;
+  width: 600px;
+  height: 300px;
+}
+
+a,
+img {
+  background-color: red;
+  width: 100px;
+  height: 100px;
+}
